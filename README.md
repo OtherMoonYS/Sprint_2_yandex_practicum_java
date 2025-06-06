@@ -1,1 +1,1 @@
-# Sprint_2_yandex_practicum_java
+# Sprint_2
